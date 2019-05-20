@@ -1,5 +1,10 @@
 ﻿이건비밀이야.txt
 *.txt
+# 예외처리
+!이건공유됨.txt
+# 해당 디렉토리 안에 있는 pdf는 공유하지 않음
+/test/*.pdf
+
 
 # Created by https://www.gitignore.io/api/java,windows,eclipse
 # Edit at https://www.gitignore.io/?templates=java,windows,eclipse
